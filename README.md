@@ -8,16 +8,12 @@ This pipeline is implemented in Keras, and the model is trained on 100 epochs.
 
 The dataset is a combination of above three mentioned classes containing in total of 1200 training samples and have been validated, for the same.
 No-substructure 
-![image1](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/dcb9c7c2-d256-4020-80e0-84fa36d544c6)
-Sphere 
-![image12](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/d5d53683-c1c0-4cfb-aafe-495e91401e6c)
-Vort 
-![vv](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/51f31393-e3e9-4058-8cea-92f337466471)
 
 
 
 
-Results 
+
+# Results 
 
 The results produced by the model are effecient and have attached both the validation image and resulted image for each class.
 
