@@ -18,6 +18,7 @@ No-substructure
 The results produced by the model are effecient and have attached both the validation image and resulted image for each class.
 
 No-substructure
+
 ![1v](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/fedc0720-ec67-4e2a-8bfd-eb7a1a5c8c3e)
 
 ![1no](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/c21c383e-6cc9-4300-8808-f8aa7be20a0b)
