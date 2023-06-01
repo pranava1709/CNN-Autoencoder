@@ -7,7 +7,6 @@ This pipeline is implemented in Keras, and the model is trained on 100 epochs.
 # Dataset
 
 The dataset is a combination of above three mentioned classes containing in total of 1200 training samples in .npy format.
-No- 
 
 
 
