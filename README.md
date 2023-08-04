@@ -1,12 +1,12 @@
 # CNN-Autoencoder
 
-In recent times Autoencoders have been extremely beneficial, especially in produing reduced dimensional images. Here, I tried to develop an combination of autoencoder and CNN from scratch using the basic encoder and decoder base, for three main categories of the Dar Matter sphere, vort and nosub-structure. 
+In recent times Autoencoders have been extremely beneficial, especially in producing reduced dimensional images. Here, I tried to develop a combination of an autoencoder and CNN from scratch using the basic encoder and decoder base, for three main categories of the Dar Matter sphere, vort, and no sub-structure. 
 
 This pipeline is implemented in Keras, and the model is trained on 100 epochs. 
 
 # Dataset
 
-The dataset is a combination of above three mentioned classes containing in total of 1200 training samples in .npy format.
+The dataset is a combination of the above three mentioned classes containing a total of 1200 training samples in .npy format.
 
 
 
@@ -14,7 +14,7 @@ The dataset is a combination of above three mentioned classes containing in tota
 
 # Results 
 
-The results produced by the model are effecient and have attached both the validation image and resulted image for each class.
+The results produced by the model are efficient and have attached both the validation image and resulted in image for each class.
 
 No-substructure
 
