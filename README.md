@@ -14,25 +14,29 @@ The dataset is a combination of the above three mentioned classes containing a t
 
 # Results 
 
-The results produced by the model are efficient and have attached both the validation image and resulted in image for each class.
+The results produced by the model are efficient and have attached both the validation image and resulted in the image for each class. The first figure in each case is the ground truth image and the second one is the predicted one.)
 
-No-substructure
+No-substructure (
 
-![1v](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/fedc0720-ec67-4e2a-8bfd-eb7a1a5c8c3e)
+![1nos](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/f557354d-296a-4135-8e72-8b67353c4e41)
 
-![1no](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/c21c383e-6cc9-4300-8808-f8aa7be20a0b)
+
+![11nos](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/1a4e5df9-ed74-4f02-9741-dbd268b66ed7)
+
 
 Sphere
 
-![2v](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/3730184f-ff03-43eb-b346-a6fce8d679e0)
+![1sp](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/7ac191d5-dcac-450e-b9ec-5124aa9a6b49)
 
-![2sp](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/d0dbcb6c-1fd5-4bbd-83ec-e213d9f409e4)
+
+![11sp](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/a357f133-8b21-4839-8678-75ca18dd82d7)
+
 
 Vort 
 
-![3v](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/9a93f940-32ea-41d1-95b6-425972a0ea54)
+![1vort](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/71c8750a-a2cb-4440-ae8d-b3d2e286a456)
 
-![3vort](https://github.com/pranava1709/An-Auto-Encoder-CNN-Model-for-generating-reduced-dimensional-Images-for-Dark-Matter-Data-/assets/60814171/a4f17aaf-d405-41f8-8e3d-47a231604d77)
 
+![11vort](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/36a4b289-fe79-4375-9845-653561a74b15)
 
 
