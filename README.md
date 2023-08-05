@@ -16,7 +16,8 @@ The dataset is a combination of the above three mentioned classes containing a t
 
 The results produced by the model are efficient and have attached both the validation image and resulted in the image for each class. The first figure in each case is the ground truth image and the second one is the predicted one.)
 
-No-substructure (
+No-substructure 
+
 
 ![1nos](https://github.com/pranava1709/CNN-Autoencoder/assets/60814171/f557354d-296a-4135-8e72-8b67353c4e41)
 
